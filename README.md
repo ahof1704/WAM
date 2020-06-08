@@ -10,4 +10,6 @@ torchvision               0.7.0.dev20200529           py37_cu101                
 scprep                    1.0.4                       py_0                                bioconda
 umap-learn                0.4.3                       py37hc8dfbb8_0                      conda-forge
 ```
-Full environment description in *link*
+Full environment description in [WAM_build.yml](code/WAM_build.yml)
+
+
