@@ -13,3 +13,11 @@ umap-learn                0.4.3                       py37hc8dfbb8_0            
 Full environment description in [WAM_build.yml](code/WAM_build.yml)
 
 
+```
+@article{fonseca2020learning,
+  title={Learning aligned embeddings for semi-supervised word translation using Maximum Mean Discrepancy},
+  author={Fonseca, Antonio HO and van Dijk, David},
+  journal={arXiv preprint arXiv:2006.11578},
+  year={2020}
+}
+```
